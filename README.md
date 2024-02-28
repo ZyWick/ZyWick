@@ -1,4 +1,7 @@
-![06df2287db963c5230f9b2d86e7728ba](https://github.com/ZyWick/ZyWick/assets/104405536/2cac5d39-be31-4fbe-8b57-db928e9a2135#center)
+<p align="center">
+    <img src="https://github.com/ZyWick/ZyWick/assets/104405536/2cac5d39-be31-4fbe-8b57-db928e9a2135#center" alt="06df2287db963c5230f9b2d86e7728ba">
+</p>
+
 ## Hi, it's Josh
 
 
