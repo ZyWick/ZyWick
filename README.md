@@ -7,6 +7,8 @@
 - 🔭 I’m currently taking Bachelor of Science in Computer Science Major in Software Technology
 - 🌱 at De La Salle University - Manila
 
+<!---
 ## 📫 Contact
 * david_joshua_corpuz@dlsu.edu.ph
 * djmcorpuzzz@gmail.com
+-->
